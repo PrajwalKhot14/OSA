@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a49334e1.chunk.css",
+    "main.js": "/static/js/main.62254f2e.chunk.js",
+    "main.js.map": "/static/js/main.62254f2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e6e88a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e6e88a6.js.map",
+    "static/js/2.823e1ac1.chunk.js": "/static/js/2.823e1ac1.chunk.js",
+    "static/js/2.823e1ac1.chunk.js.map": "/static/js/2.823e1ac1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d5e0fc26393a4ea7ee9dd8384382218b.js": "/precache-manifest.d5e0fc26393a4ea7ee9dd8384382218b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a49334e1.chunk.css.map": "/static/css/main.a49334e1.chunk.css.map",
+    "static/js/2.823e1ac1.chunk.js.LICENSE.txt": "/static/js/2.823e1ac1.chunk.js.LICENSE.txt",
+    "static/js/main.62254f2e.chunk.js.LICENSE.txt": "/static/js/main.62254f2e.chunk.js.LICENSE.txt",
+    "static/media/athlete.png": "/static/media/athlete.4f0a5460.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6e88a6.js",
+    "static/js/2.823e1ac1.chunk.js",
+    "static/css/main.a49334e1.chunk.css",
+    "static/js/main.62254f2e.chunk.js"
+  ]
+}
